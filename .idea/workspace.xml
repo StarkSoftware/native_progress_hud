@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a291f91f-370f-4ff3-bd6d-4f59916112bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +72,9 @@
       <screen x="0" y="25" width="1920" height="1131" />
     </state>
     <state x="350" y="172" key="SettingsEditor/0.25.1920.1131@0.25.1920.1131" timestamp="1608284933176" />
+    <state x="542" y="275" width="613" height="582" key="find.popup" timestamp="1608287530270">
+      <screen x="0" y="25" width="1920" height="1131" />
+    </state>
+    <state x="542" y="275" width="613" height="582" key="find.popup/0.25.1920.1131@0.25.1920.1131" timestamp="1608287530270" />
   </component>
 </project>
